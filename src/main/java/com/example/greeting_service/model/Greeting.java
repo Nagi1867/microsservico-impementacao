@@ -1,4 +1,4 @@
-package com.example.greeting_service;
+package com.example.greeting_service.model;
 
 public class Greeting {
 	
